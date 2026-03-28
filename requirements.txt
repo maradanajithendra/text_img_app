@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 streamlit
 requests
+=======
+streamlit
+requests
+
+>>>>>>> 031879b8208dc1e91ff69d266f3b9ccc2159bd37
